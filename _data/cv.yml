@@ -2,18 +2,14 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Brooks Leitner
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: MD
+      institution: Yale School of Medicine, New Haven, CT
+      year: 2024e
       description:
         - Description 1.
         - Description 2.
@@ -21,12 +17,12 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: PhD
+      institution: Yale University Department of Cellular & Molecular Physiology, New Haven, CT
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Description 1. Translational Systems Metabolism in Health and Disease
+        - Description 2. Thesis with Distinction
 
 - title: Experience
   type: time_table
