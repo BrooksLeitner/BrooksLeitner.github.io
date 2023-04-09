@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My first in-person Hackathon! I pitched with team Monarch Mile at the Yale Center for Biomedical Innovation and Technology Hackathon about a platform to connect breast cancer survivors with evidence-based resources for integrative health resources.
+My first in-person Hackathon! I pitched with team Monarch Mile at the Yale Center for Biomedical Innovation and Technology Hackathon about a platform to connect breast cancer survivors with evidence-based resources for integrative health products.
