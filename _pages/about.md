@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://medicine.yale.edu/mdphd/">Current Affiliation</a>. Science, Philosophy, and a Little Medicine
+subtitle: Science, Philosophy, and a Little Medicine
 profile:
   align: right
   image: prof_pic.jpg
