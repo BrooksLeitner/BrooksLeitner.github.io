@@ -6,7 +6,7 @@ subtitle: <a href='#https://medicine.yale.edu/mdphd/'>Current Affiliation</a>. S
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: ![](/assets/images/prof_pic.jpg)
   image_circular: false # crops the image to make it circular
   address: >
     <p>MD/PhD Program</p>
