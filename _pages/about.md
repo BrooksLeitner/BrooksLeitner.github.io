@@ -21,3 +21,5 @@ social: true  # includes social icons at the bottom of the page
 
 Originally inspired by the fact that ultramarathon runners used cheeseburgers and M&Ms for fuel as I volunteered for their 100 mile races, I've come to appreciate the metabolic flexibility of both the body and the mind. I mean, is running for 20 hours straight more of a physical or mental feat?
 
+Now that you're thinking about it, is that same fuel going to both the muscles and the brain?
+
