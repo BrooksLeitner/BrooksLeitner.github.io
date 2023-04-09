@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href="https://medicine.yale.edu/mdphd/">Current Affiliation</a>. Science, Philosophy, and a Little Medicine
 profile:
   align: right
-  image: ![prof_pic](/assets/img/prof_pic.jpg)
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>MD/PhD Program</p>
