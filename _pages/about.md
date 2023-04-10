@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Science, Philosophy, and a Little Medicine
+subtitle: 
 profile:
   align: right
   image: prof_pic.jpg
@@ -22,3 +22,5 @@ Originally inspired by the fact that ultramarathon runners used cheeseburgers an
 
 Now that you're thinking about it, is that same fuel going to both the muscles and the brain?
 
+
+Reach out socially via icons above!
