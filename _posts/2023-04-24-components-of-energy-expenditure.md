@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Components of Energy Expenditure - How We Use Calories
-date: 2023-04-24 19:01:00
+date: 2023-04-24 09:01:00
 description: This article contains a basal metabolic rate calculator and an interactive graphic of the components of energy expenditure.
 tags: metabolism, exercise, energy
 categories: blog-post
