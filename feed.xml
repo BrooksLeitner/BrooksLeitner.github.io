@@ -1,5 +1,104 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.brooksmdphd.com//feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.brooksmdphd.com//" rel="alternate" type="text/html" hreflang="en" /><updated>2023-04-24T00:35:00+00:00</updated><id>https://www.brooksmdphd.com//feed.xml</id><title type="html">blank</title><subtitle>Brooks is an MD/PhD Candidate at Yale with a background in physiology. His academic studies focus on whole-body metabolism, and he blogs about fitness, metabolism, and the mind.
-</subtitle><entry><title type="html">My Experience with Ketamine in a Clinical Trial</title><link href="https://www.brooksmdphd.com//blog/2023/ketamine/" rel="alternate" type="text/html" title="My Experience with Ketamine in a Clinical Trial" /><published>2023-04-19T19:01:00+00:00</published><updated>2023-04-19T19:01:00+00:00</updated><id>https://www.brooksmdphd.com//blog/2023/ketamine</id><content type="html" xml:base="https://www.brooksmdphd.com//blog/2023/ketamine/"><![CDATA[<p>There are currently 217 actively recruiting clinical trials for Ketamine and 43 are accepting healthy volunteers <a href="https://clinicaltrials.gov/ct2/results?term=Ketamine&amp;recrs=a&amp;age_v=&amp;gndr=&amp;hlth=Y&amp;type=Intr&amp;rslt=&amp;Search=Apply">ClinicalTrials.gov</a>. Interestingly, ketamine has shown preliminary efficacy for numerous conditions related to chronic pain, anesthesia, Parkinson’s disease, and multiple mental health conditions including depression, PTSD, and opioid use disorder and researchers want to understand how it’s working. I am most interested in it’s role in mental health conditions, and I recently participated in one of these trials to help understand the how the doses used for treatment-resistant depression might be working to modulate brain metabolism. This study, by the way, requires clean urinalyses so that researchers can be sure there are no confounding influences from other drugs, including cannabis.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.brooksmdphd.com//feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.brooksmdphd.com//" rel="alternate" type="text/html" hreflang="en" /><updated>2023-04-25T00:00:30+00:00</updated><id>https://www.brooksmdphd.com//feed.xml</id><title type="html">blank</title><subtitle>Brooks is an MD/PhD Candidate at Yale with a background in physiology. His academic studies focus on whole-body metabolism, and he blogs about fitness, metabolism, and the mind.
+</subtitle><entry><title type="html">Components of Energy Expenditure - How We Use Calories</title><link href="https://www.brooksmdphd.com//blog/2023/components-of-energy-expenditure/" rel="alternate" type="text/html" title="Components of Energy Expenditure - How We Use Calories" /><published>2023-04-24T19:01:00+00:00</published><updated>2023-04-24T19:01:00+00:00</updated><id>https://www.brooksmdphd.com//blog/2023/components-of-energy-expenditure</id><content type="html" xml:base="https://www.brooksmdphd.com//blog/2023/components-of-energy-expenditure/"><![CDATA[<p>We take in energy in the form of the three macronutrients: carbohydrates, fatty acids, and proteins. Our body is designed to break down the food we ingest into usable energy substrates in order to generate ATP—the molecule of energy currency that fuels nearly all metabolic reactions in our bodies. Now, not all energy that we ingest is “lost,” or expended to perform specific functions that our bodies do. Some of it is used for growth, like how amino acids can become building blocks for muscle through a process called muscle protein synthesis. In addition, energy goes into assisting growth of reproductive cells and tissues. However, the majority of the energy we take in is lost through a variety of processes, all cumulatively known as “Energy Expenditure.”</p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/energy_sankey.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    The Components of Energy Intake and Expenditure Have Numerous Derivatives
+</div>
+
+<p>The largest component of energy expenditure is your basal metabolic rate (BMR). Your BMR is the energy that your body uses to maintain basic housekeeping functions, like fueling the Na+/K+ ATPase that maintains cellular gradients at the molecular level, and fueling your always pumping heart, energy-utilizing brain, etc… BMR is most largely determined by your lean body mass (your organs and skeletal muscles). Use the BMR calculator below to estimate your basal metabolic rate!</p>
+
+<p>Then, there are several more easily modifiable components of energy expenditure:</p>
+
+<p>Physical activity: intensity, duration, and type of exercise can all influence how much energy is required for physical activity</p>
+
+<p>Thermic effect of food: Energy is consumed simply digesting the food you take in. It is approximately 10% of the calories that you eat in a normal day. Proteins have higher thermic effects of food, and simple sugars have the smallest thermic effect of food.</p>
+
+<p>Non-exercise activity thermogenesis (NEAT): This is the extra amount of energy you expend as you tap your foot, get dressed in the morning, and brush your teeth. Small movements that all add up throughout the day to become a component of your overall energy expenditure.</p>
+
+<p>BMR Calculator:</p>
+
+<p>&lt;!DOCTYPE html&gt;</p>
+<html>
+<head>
+	<title>BMR Calculator</title>
+	<link href="https://fonts.googleapis.com/css2?family=Avenir&amp;display=swap" rel="stylesheet" />
+	<style>
+		body {
+			font-family: 'Avenir', sans-serif;
+		}
+	</style>
+</head>
+<body>
+	<h1>BMR Calculator</h1>
+	<form>
+		<label for="weight">Weight (kg):</label>
+		<input type="number" id="weight" name="weight" required="" /><br />
+
+		<label for="height">Height (cm):</label>
+		<input type="number" id="height" name="height" required="" /><br />
+
+		<label for="age">Age (years):</label>
+		<input type="number" id="age" name="age" required="" /><br />
+
+		<label for="sex">Sex:</label>
+		<select id="sex" name="sex" required="">
+			<option value="">Select your sex</option>
+			<option value="male">Male</option>
+			<option value="female">Female</option>
+		</select><br />
+
+		<input type="button" value="Calculate" onclick="calculateBMR()" /><br />
+
+		<label for="result">Your BMR is:</label>
+		<input type="text" id="result" name="result" readonly="" />
+	</form>
+
+	<script>
+		function calculateBMR() {
+			var weight = parseInt(document.getElementById("weight").value);
+			var height = parseInt(document.getElementById("height").value);
+			var age = parseInt(document.getElementById("age").value);
+			var sex = document.getElementById("sex").value;
+
+			if (sex == "male") {
+				var bmr = 88.36 + (13.4 * weight) + (4.8 * height) - (5.7 * age);
+			} else if (sex == "female") {
+				var bmr = 447.6 + (9.2 * weight) + (3.1 * height) - (4.3 * age);
+			}
+
+			document.getElementById("result").value = bmr.toFixed(2) + " calories per day";
+		}
+	</script>
+</body>
+</html>
+
+<p>This calculator was based off of the <a href="https://en.wikipedia.org/wiki/Harris–Benedict_equation">Harris-Benedict Formula</a>. Of note, this is an equation based on population averages, and is not very sensitive to differences in body composition (ie. How much fat versus muscle you have at a given weight). Multiple corrections have been made over the years in the academic literature, but this formula provides a reasonable estimate for you to base the largest component of your energy expenditure!</p>
+
+<p>References (and deeper reading):</p>
+
+<p>Rolfe DF, Brown GC. Cellular energy utilization and molecular origin of standard metabolic rate in mammals. Physiol Rev. 1997 Jul;77(3):731-58. doi: 10.1152/physrev.1997.77.3.731. PMID: 9234964.</p>
+
+<p>Swinburn BA, Ravussin E. Energy and macronutrient metabolism. Baillieres Clin Endocrinol Metab. 1994 Jul;8(3):527-48. doi: 10.1016/s0950-351x(05)80285-x. PMID: 7980346.</p>
+
+<p>Trexler ET, Smith-Ryan AE, Norton LE. Metabolic adaptation to weight loss: implications for the athlete. J Int Soc Sports Nutr. 2014 Feb 27;11(1):7. doi: 10.1186/1550-2783-11-7. PMID: 24571926; PMCID: PMC3943438.</p>
+
+<p>Löffler MC, Betz MJ, Blondin DP, Augustin R, Sharma AK, Tseng YH, Scheele C, Zimdahl H, Mark M, Hennige AM, Wolfrum C, Langhans W, Hamilton BS, Neubauer H. Challenges in tackling energy expenditure as obesity therapy: From preclinical models to clinical application. Mol Metab. 2021 Sep;51:101237. doi: 10.1016/j.molmet.2021.101237. Epub 2021 Apr 18. PMID: 33878401; PMCID: PMC8122111.</p>]]></content><author><name></name></author><category term="blog-post" /><category term="metabolism," /><category term="exercise," /><category term="energy" /><summary type="html"><![CDATA[This article contains a basal metabolic rate calculator and an interactive graphic of the components of energy expenditure.]]></summary></entry><entry><title type="html">My Experience with Ketamine in a Clinical Trial</title><link href="https://www.brooksmdphd.com//blog/2023/ketamine/" rel="alternate" type="text/html" title="My Experience with Ketamine in a Clinical Trial" /><published>2023-04-19T19:01:00+00:00</published><updated>2023-04-19T19:01:00+00:00</updated><id>https://www.brooksmdphd.com//blog/2023/ketamine</id><content type="html" xml:base="https://www.brooksmdphd.com//blog/2023/ketamine/"><![CDATA[<p>There are currently 217 actively recruiting clinical trials for Ketamine and 43 are accepting healthy volunteers <a href="https://clinicaltrials.gov/ct2/results?term=Ketamine&amp;recrs=a&amp;age_v=&amp;gndr=&amp;hlth=Y&amp;type=Intr&amp;rslt=&amp;Search=Apply">ClinicalTrials.gov</a>. Interestingly, ketamine has shown preliminary efficacy for numerous conditions related to chronic pain, anesthesia, Parkinson’s disease, and multiple mental health conditions including depression, PTSD, and opioid use disorder and researchers want to understand how it’s working. I am most interested in it’s role in mental health conditions, and I recently participated in one of these trials to help understand the how the doses used for treatment-resistant depression might be working to modulate brain metabolism. This study, by the way, requires clean urinalyses so that researchers can be sure there are no confounding influences from other drugs, including cannabis.</p>
 
 <p>So, I underwent two MR (magnetic resonance) imaging scans (one day with placebo, one day with ketamine infusion), and I did not know which day I would be experiencing ketamine. On the first day, I was waiting for any odd sensations. Other than questioning the curtains’ movement as they were measuring my blood pressure and performing an EKG in the recovery room, I would find it hard to believe that Ketamine had any psychedelic effects if I did have it.</p>
 
