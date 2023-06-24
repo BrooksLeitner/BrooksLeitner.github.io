@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-With the help of AI digital art creation tools, I was able to create "Intensive Care," a piece born out of my reflections on the intersection of critical illness, ICU technology, and the interconnectedness of the body. This was judged as 2nd place in the Art category of the Yale School of Medicine competition. See the great write-up of the event by Abigail Roth at Yale <a href="https://medicine.yale.edu/md-program/news-article/celebrating-health-professions-students-poetry-prose-and-art/">here!</a>
+With the help of AI digital art creation tools, I was able to create "Intensive Care," a piece borne out of my reflections on the intersection of critical illness, ICU technology, and the interconnectedness of the body. This was judged as 2nd place in the Art category of the Yale School of Medicine competition. See the great write-up of the event by Abigail Roth at Yale <a href="https://medicine.yale.edu/md-program/news-article/celebrating-health-professions-students-poetry-prose-and-art/">here!</a>
 
 ***
 
