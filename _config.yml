@@ -8,7 +8,7 @@ middle_name: P.
 last_name: Leitner, PhD
 email: brooks@brooksmdphd.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Brooks is an MD/PhD Candidate at Yale with a background in physiology. His academic studies focus on whole-body metabolism, and he blogs about fitness, metabolism, and the mind.
+  Brooks is an MD/PhD Candidate at Yale with a background in physiology. His academic studies focus on whole-body and brain metabolism, and he blogs about fitness, metabolism, and the mind.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
