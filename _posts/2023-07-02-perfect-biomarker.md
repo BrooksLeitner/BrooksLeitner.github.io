@@ -1,5 +1,5 @@
 ---
-layout: distill
+layout: post
 title: What is the Perfect Biomarker?
 description: This article provides a qualitative and quantitative framework in order to evaluate the utility of biomarkers for health and disease
 giscus_comments: true
