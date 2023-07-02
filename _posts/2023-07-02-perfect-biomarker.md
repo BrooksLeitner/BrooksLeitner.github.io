@@ -7,6 +7,10 @@ tags: metabolism, medicine
 categories: blog-post
 date: 2023-07-02 12:00:00
 
+  - name: Brooks P. Leitner
+    affiliations:
+      name: Yale MD/PhD Program
+
 # Optionally, you can add a table of contents to your post.
 # NOTES:
 #   - make sure that TOC names match the actual section names
