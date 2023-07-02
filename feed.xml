@@ -1,5 +1,83 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.brooksmdphd.com//feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.brooksmdphd.com//" rel="alternate" type="text/html" hreflang="en" /><updated>2023-07-02T15:42:37+00:00</updated><id>https://www.brooksmdphd.com//feed.xml</id><title type="html">blank</title><subtitle>Brooks is an MD/PhD Candidate at Yale with a background in physiology. His academic studies focus on whole-body and brain metabolism, and he blogs about fitness, metabolism, and the mind.
-</subtitle><entry><title type="html">Components of Energy Expenditure - How We Use Calories</title><link href="https://www.brooksmdphd.com//blog/2023/components-of-energy-expenditure/" rel="alternate" type="text/html" title="Components of Energy Expenditure - How We Use Calories" /><published>2023-04-24T19:01:00+00:00</published><updated>2023-04-24T19:01:00+00:00</updated><id>https://www.brooksmdphd.com//blog/2023/components-of-energy-expenditure</id><content type="html" xml:base="https://www.brooksmdphd.com//blog/2023/components-of-energy-expenditure/"><![CDATA[<p>We take in energy in the form of the three macronutrients: carbohydrates, fatty acids, and proteins. Our body is designed to break down the food we ingest into usable energy substrates in order to generate ATP—the molecule of energy currency that fuels nearly all metabolic reactions in our bodies. Now, not all energy that we ingest is “lost,” or expended to perform specific functions that our bodies do. Some of it is used for growth, like how amino acids can become building blocks for muscle through a process called muscle protein synthesis. In addition, energy goes into assisting growth of reproductive cells and tissues. However, the majority of the energy we take in is lost through a variety of processes, all cumulatively known as “Energy Expenditure.”</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.brooksmdphd.com//feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.brooksmdphd.com//" rel="alternate" type="text/html" hreflang="en" /><updated>2023-07-02T16:30:41+00:00</updated><id>https://www.brooksmdphd.com//feed.xml</id><title type="html">blank</title><subtitle>Brooks is an MD/PhD Candidate at Yale with a background in physiology. His academic studies focus on whole-body and brain metabolism, and he blogs about fitness, metabolism, and the mind.
+</subtitle><entry><title type="html">What is the Perfect Biomarker?</title><link href="https://www.brooksmdphd.com//blog/2023/perfect-biomarker/" rel="alternate" type="text/html" title="What is the Perfect Biomarker?" /><published>2023-07-02T12:00:00+00:00</published><updated>2023-07-02T12:00:00+00:00</updated><id>https://www.brooksmdphd.com//blog/2023/perfect-biomarker</id><content type="html" xml:base="https://www.brooksmdphd.com//blog/2023/perfect-biomarker/"><![CDATA[<h2 id="introduction">Introduction</h2>
+
+<p>So you want to design the perfect biomarker. Or perhaps you’re wondering whether a hot new biomarker (in a top journal or from a biotech start-up) is actually going to be useful, or stand the test of time. The goal of this article is to provide a framework for how to evaluate the effectiveness of biomarkers for health, disease, or really any metric. I recommend you check out the <a href="https://www.ncbi.nlm.nih.gov/books/NBK326791/">NIH’s “BEST Resource”</a> for technical definitions. I will refer here to a biomarker as any characteristic that serves as an indicator of a biological function, state of health, or metric that reflects a health-related process. Biomarkers could be from a blood test (like serum glucose levels), imaging characteristics (from a Brain MRI or PET Scan), digital (personal history of Google queries that suggest anxiety), genetic variants (such as BRCA1 cancer risk gene), or anything you could imagine.</p>
+
+<p>The ultimate goal of a biomarker is to guide healthcare management, measure response to treatment, or provide an index of future risk. An ideal one will maximize benefits, make it clear to the person and healthcare team how to move forward with the individual’s life, be easy to measure and track, and be responsive to a specific intervention.</p>
+
+<p>I will describe first the necessary context, then P-FRAME criteria, and finally touch on the specific indications.</p>
+
+<hr />
+
+<h2 id="context-matters">Context Matters</h2>
+
+<p>Clearly define the problem you are trying to solve- this concept that applies both to academic research and launching a startup. As for biomarkers, it is important to determine what problem your biomarker aims to solve. Will it help guide treatment for Alzheimer’s? Will it tell you the optimal diet to enhance sleep? Something as general as a “key health indicator” is nearly useless. This is because it does not provide any new knowledge to the individual.</p>
+
+<p>Key questions you should begin thinking about include:</p>
+<ul>
+    <li>If I get this biomarker tested, will it tell me how to I change my behavior?</li>
+    <li>Will I be faced with decisions that could change the course of my health? </li>
+    <li>If the biomarker does correlate with disease risk, does a solution exist?</li>
+</ul>
+
+<p>Bottom line is, you need to provide context along with the biomarker. A good example of a useful biomarker is VO2Max. It is the maximal rate of oxygen consumption and utilization during an exercise test, and is a gold standard biomarker for cardiorespiratory fitness. This may be a useful biomarker for an individual about to begin a new exercise program, or an Olympic Sports team member prior to a conditioning regimen. VO2max may be useful for the right person with the right resources (e.g. a coach or trainer), at the right time (prior to an intervention designed specifically to increase fitness), and with a particular goal in mind (e.g. as a trackable metric during a new conditioning program).</p>
+
+<hr />
+
+<h2 id="p-frame-criteria">P-FRAME Criteria</h2>
+
+<p>Several qualitative AND quantitative metrics can be useful for defining the purpose for, and utility of, nearly any biomarker. I’ve selected a few general features a good biomarker should have that I find useful: Predictive, Feasible, Responsive, Actionable, Minimally Invasive, and Explainable (P-FRAME).</p>
+
+<div class="l-page">
+  <iframe src="/assets/img/Biomarker_Radial_Plot.html" frameborder="0" scrolling="no" height="600px" width="100%" style="border: 1px dashed grey;"></iframe>
+</div>
+
+<h4 id="predictive">Predictive</h4>
+
+<p>The essential component of a biomarker—does it predict a particular health/disease state? HbA1c (the amount of glycosylated hemoglobin—that is sugar-modified hemoglobin in your blood) is extremely predictive of future microvascular damage cause by excess blood sugar levels. As a biomarker that can predict diseases such as diabetes-associated peripheral neuropathy, diabetic eye disease (retinopathy), and diabetic kidney disease, HbA1c is the epitome of Predictive.</p>
+
+<h4 id="feasible">Feasible</h4>
+
+<p>A more practical point; can any laboratory or individual measure the biomarker themselves? Biomarkers that have at home test kits (In fact, startup Simple HealthKit just signed a <a href="https://www.fiercehealthcare.com/retail/simple-healthkit-inks-deal-walmart-rollback-prices-increase-access-home-test">deal with Walmart</a> to allow for HbA1c home testing!) are quite feasible. Performing a PET/CT scan, which requires injection of a radioisotope and simultaneously imaging of a part of or the whole body in order to see progression of metastatic cancer, is on the opposite end of feasible.</p>
+
+<h4 id="responsive">Responsive</h4>
+
+<p>Does the biomarker respond well to intervention? VO2max is an interesting example. The fitter you are, the higher it is. Rigorous aerobic training in general can increase VO2max quite predictably. In fact, read  <a href="https://brooksleitner.medium.com/the-1977-exercise-protocol-that-increased-fitness-more-than-any-other-8557efa6d929">my previous post</a> dissecting the magnitude of change from the most intense aerobic exercise study I have seen to date. The reason I don’t give it a 5/5 is because it is extremely hard to increase VO2max, particularly without regular measurement and/or with a coach.</p>
+
+<h4 id="actionable">Actionable</h4>
+
+<p>Does a particular biomarker score prompt you with a clear set of actions? Heart rate variability (HRV), which is statistically associated with a beneficial state of recovery, is a very general marker of a health state. Because we don’t fully yet understand the scientific underpinnings, it is hard to have a clear set of actions to take when you receive “74 milliseconds” as your last night’s HRV from your wearable. However, HRV is GENERALLY actionable. That is, a person may adopt generally healthy behaviors, and hope that their HRV responds in a beneficial direction. And maybe that’s enough out of a biomarker! Just not perfect…</p>
+
+<h4 id="minimally-invasive">Minimally Invasive</h4>
+
+<p>The three examples in the graph above demonstrate a decent part of the spectrum here. A completely non-invasive wearable wrist monitor to obtain HRV scores a 5/5. HbA1c requires a small amount of blood which is not horrible, but you may not want to do daily blood draws or needle sticks, and thus scores a 4/5. VO2max requires (in a laboratory setting) attachment to a 10-lead EKG, an extremely strenuous exercise test, all while wearing a facemask that captures your oxygen exchange. Though you don’t need a blood draw, I score it a 3/5 because of how involved it is. Depending on how insightful the biomarker is, you may strike a balance between invasiveness and insight gleaned from the result.</p>
+
+<h4 id="explainable">Explainable</h4>
+
+<p>Explainability is a bonus trait, yet I think being able to explain how the biomarker is causally (or mechanistically) associated with a particular disease/health state is important if the biomarker will stand the test of time. For example, we know that HbA1c reflects glycemic control over the last 90-120 days because the amount of sugar in the serum directly reflects how much glucose binds to hemoglobin in red blood cells, and the red blood cell lifespan is 90-120 days. We know then, about how long it will take to change HbA1c, and that control of blood sugar each day will impact its result. However, using procalcitonin to guide treatment of a bacterial infection is useful, but it is way less clear WHY it is helpful. Being able to explain WHY a biomarker is useful, gives a lot more credibility and better helps guide management.</p>
+
+<p>The P-FRAME framework is more subjective and qualitative, as metrics such as sensitivity, specificity, positive predictive value, and negative predictive value are important statistical and quantifiable metrics that are used at a population level. P-FRAME is intended to help an individual (you) assess how a biomarker may be useful, particularly on a per-individual basis.</p>
+
+<hr />
+
+<h2 id="specific-indications">Specific Indications</h2>
+
+<p>For the sake of space, I will direct you again to the <a href="https://www.ncbi.nlm.nih.gov/books/NBK326791/">NIH’s “BEST Resource”</a> to examine the numerous indications for biomarkers. In general, you can create a biomarker for any purpose, but clearly defined purposes include for:</p>
+
+<ul>
+    <li>Diagnosis</li>
+    <li>Disease/Risk Prediction</li>
+    <li>Safety</li>
+    <li>Monitoring</li>
+    <li>Treatment Response</li>
+    <li>Prognosis</li>    
+</ul>
+
+<p>There are criteria, along with evidence, that must be met in order for biomarkers to be adopted widely in clinical practice. Typically, the evidence and metrics should be obtained in the context of one or more of the above indications.</p>
+
+<p>Look out for more analyses related to existing, and up and coming biomarkers, and try the P-FRAME framework as you come across new biomarkers. I particularly challenge you to understand the predictability and explainability of them!</p>
+
+<hr />]]></content><author><name></name></author><category term="blog-post" /><category term="metabolism," /><category term="medicine" /><summary type="html"><![CDATA[This article provides a qualitative and quantitative framework in order to evaluate the utility of biomarkers for health and disease]]></summary></entry><entry><title type="html">Components of Energy Expenditure - How We Use Calories</title><link href="https://www.brooksmdphd.com//blog/2023/components-of-energy-expenditure/" rel="alternate" type="text/html" title="Components of Energy Expenditure - How We Use Calories" /><published>2023-04-24T19:01:00+00:00</published><updated>2023-04-24T19:01:00+00:00</updated><id>https://www.brooksmdphd.com//blog/2023/components-of-energy-expenditure</id><content type="html" xml:base="https://www.brooksmdphd.com//blog/2023/components-of-energy-expenditure/"><![CDATA[<p>We take in energy in the form of the three macronutrients: carbohydrates, fatty acids, and proteins. Our body is designed to break down the food we ingest into usable energy substrates in order to generate ATP—the molecule of energy currency that fuels nearly all metabolic reactions in our bodies. Now, not all energy that we ingest is “lost,” or expended to perform specific functions that our bodies do. Some of it is used for growth, like how amino acids can become building blocks for muscle through a process called muscle protein synthesis. In addition, energy goes into assisting growth of reproductive cells and tissues. However, the majority of the energy we take in is lost through a variety of processes, all cumulatively known as “Energy Expenditure.”</p>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
