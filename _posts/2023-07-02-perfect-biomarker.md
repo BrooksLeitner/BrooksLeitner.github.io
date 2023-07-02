@@ -34,6 +34,15 @@ The ultimate goal of a biomarker is to guide healthcare management, measure resp
 
 I will describe first the necessary context, then P-FRAME criteria, and finally touch on the specific indications.
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/biomarker_testtube.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    DALLE-2 Helped me depict the magical biomarker testtube. Does there exist a perfect all-in-one biomarker platform?
+</div>
+
 ***
 
 ## Context Matters
