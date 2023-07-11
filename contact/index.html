@@ -128,18 +128,57 @@
     <div class="container mt-5">
       <h2>Sign Up for the Latest</h2>
 
-<form id="mvojowlv" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mvojowlv" method="post">
-  <fieldset id="fs-frm-inputs">
-    <label for="full-name">Full Name</label>
-    <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
-    <label for="email-address">Email Address</label>
-    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.com" required="">
-    <label for="message">Message</label>
-    <textarea rows="5" name="message" id="message" placeholder="Looking forward to connecting!" required=""></textarea>
-    <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
-  </fieldset>
-  <input type="submit" value="Submit">
-</form>
+<style>
+  .contact-form {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .contact-form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .contact-form input[type="text"],
+  .contact-form input[type="email"],
+  .contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .contact-form input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .contact-form input[type="submit"]:hover {
+    background-color: #45a049;
+  }
+  </style>
+  
+  <div class="contact-form">
+    <form id="mvojowlv" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mvojowlv" method="post">
+      <fieldset id="fs-frm-inputs">
+        <label for="full-name">Full Name</label>
+        <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
+        <label for="email-address">Email Address</label>
+        <input type="email" name="_replyto" id="email-address" placeholder="email@domain.com" required="">
+        <label for="message">Message</label>
+        <textarea rows="5" name="message" id="message" placeholder="Looking forward to connecting!"></textarea>
+        <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+      </fieldset>
+      <input type="submit" value="Submit">
+    </form>
+  </div>
+  
     </div>
 
     <!-- Footer -->    
