@@ -22,4 +22,4 @@ Originally inspired by the fact that ultramarathon runners used cheeseburgers an
 
 Now that you're thinking about it, is that same fuel going to both the muscles and the brain?
 
-Connect via email and social through the icons above!
+<a href="https://www.brooksmdphd.com/contact/">Sign up for updates</a>  on the latest content, or leave feedback!
