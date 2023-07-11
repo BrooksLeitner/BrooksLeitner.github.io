@@ -1,7 +1,7 @@
 ---
 layout: contact_form
 permalink: /contact/
-title: Contact
+title: contact
 description: Contact me directly, and/or simply sign up for monthly content updates
 nav: true
 nav_order: 6
