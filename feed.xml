@@ -1,296 +1,382 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.brooksmdphd.com//feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.brooksmdphd.com//" rel="alternate" type="text/html" hreflang="en" /><updated>2023-07-25T14:16:57+00:00</updated><id>https://www.brooksmdphd.com//feed.xml</id><title type="html">blank</title><subtitle>Brooks is an MD/PhD Candidate at Yale with a background in physiology. His academic studies focus on whole-body and brain metabolism, and he blogs about fitness, metabolism, and the mind.
-</subtitle><entry><title type="html"></title><link href="https://www.brooksmdphd.com//blog/2023/2023-07-25-digital-medicine/" rel="alternate" type="text/html" title="" /><published>2023-07-25T14:16:57+00:00</published><updated>2023-07-25T14:16:57+00:00</updated><id>https://www.brooksmdphd.com//blog/2023/2023-07-25-digital-medicine</id><content type="html" xml:base="https://www.brooksmdphd.com//blog/2023/2023-07-25-digital-medicine/"><![CDATA[<p>Digital Medicine describes a novel approach to medical therapy using software and technology as therapeutics. Two videos cover the concept of why do we need, and why is now the time for digital medicine, and also the current state of affairs– challenges and successes– of implementing these strategies.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://brooksleitner.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://brooksleitner.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-07-25T14:32:25+00:00</updated><id>https://brooksleitner.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+</subtitle><entry><title type="html">From Apathy to Enthusiasm: Four Lessons for Becoming an Engaging Leader</title><link href="https://brooksleitner.github.io/blog/2023/from-apathy-to-enthusiasm-four-lessons-for-becoming-an-engaging-leader/" rel="alternate" type="text/html" title="From Apathy to Enthusiasm: Four Lessons for Becoming an Engaging Leader" /><published>2023-04-12T00:24:23+00:00</published><updated>2023-04-12T00:24:23+00:00</updated><id>https://brooksleitner.github.io/blog/2023/from-apathy-to-enthusiasm-four-lessons-for-becoming-an-engaging-leader</id><content type="html" xml:base="https://brooksleitner.github.io/blog/2023/from-apathy-to-enthusiasm-four-lessons-for-becoming-an-engaging-leader/"><![CDATA[]]></content><author><name></name></author></entry><entry><title type="html">The 1977 Exercise Protocol that Increased Fitness More than Any Other</title><link href="https://brooksleitner.github.io/blog/2023/the-1977-exercise-protocol-that-increased-fitness-more-than-any-other/" rel="alternate" type="text/html" title="The 1977 Exercise Protocol that Increased Fitness More than Any Other" /><published>2023-04-09T17:08:48+00:00</published><updated>2023-04-09T17:08:48+00:00</updated><id>https://brooksleitner.github.io/blog/2023/the-1977-exercise-protocol-that-increased-fitness-more-than-any-other</id><content type="html" xml:base="https://brooksleitner.github.io/blog/2023/the-1977-exercise-protocol-that-increased-fitness-more-than-any-other/"><![CDATA[]]></content><author><name></name></author></entry><entry><title type="html">a post with giscus comments</title><link href="https://brooksleitner.github.io/blog/2022/giscus-comments/" rel="alternate" type="text/html" title="a post with giscus comments" /><published>2022-12-10T15:59:00+00:00</published><updated>2022-12-10T15:59:00+00:00</updated><id>https://brooksleitner.github.io/blog/2022/giscus-comments</id><content type="html" xml:base="https://brooksleitner.github.io/blog/2022/giscus-comments/"><![CDATA[<p>This post shows how to add GISCUS comments.</p>]]></content><author><name></name></author><category term="sample-posts" /><category term="external-services" /><summary type="html"><![CDATA[an example of a blog post with giscus comments]]></summary></entry><entry><title type="html">a post with redirect</title><link href="https://brooksleitner.github.io/blog/2022/redirect/" rel="alternate" type="text/html" title="a post with redirect" /><published>2022-02-01T17:39:00+00:00</published><updated>2022-02-01T17:39:00+00:00</updated><id>https://brooksleitner.github.io/blog/2022/redirect</id><content type="html" xml:base="https://brooksleitner.github.io/blog/2022/redirect/"><![CDATA[<p>Redirecting to another page.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[you can also redirect to assets like pdf]]></summary></entry><entry><title type="html">a post with diagrams</title><link href="https://brooksleitner.github.io/blog/2021/diagrams/" rel="alternate" type="text/html" title="a post with diagrams" /><published>2021-07-04T17:39:00+00:00</published><updated>2021-07-04T17:39:00+00:00</updated><id>https://brooksleitner.github.io/blog/2021/diagrams</id><content type="html" xml:base="https://brooksleitner.github.io/blog/2021/diagrams/"><![CDATA[<p>This theme supports generating various diagrams from a text description using <a href="https://github.com/zhustec/jekyll-diagrams" target="\_blank">jekyll-diagrams</a> plugin.
+Below, we generate a few examples of such diagrams using languages such as <a href="https://mermaid-js.github.io/mermaid/" target="\_blank">mermaid</a>, <a href="https://plantuml.com/" target="\_blank">plantuml</a>, <a href="https://vega.github.io/vega-lite/" target="\_blank">vega-lite</a>, etc.</p>
 
-<p>The American healthcare system, largely designed when infectious diseases were the leading cause of mortality, is struggling to combat the chronic disease epidemic. Though it is easy to criticize, it is difficult to come up with solutions to improve chronic disease management.</p>
+<p><strong>Note:</strong> different diagram-generation packages require external dependencies to be installed on your machine.
+Also, be mindful of that because of diagram generation the fist time you build your Jekyll website after adding new diagrams will be SLOW.
+For any other details, please refer to <a href="https://github.com/zhustec/jekyll-diagrams" target="\_blank">jekyll-diagrams</a> README.</p>
 
-<p>In this first video I cover a great review <a href="https://www.nature.com/articles/nbt.3495">article</a> on Digital Medicine as a potential solution to the chronic disease epidemic. The authors argue WHY now is the time to implement a novel solution.</p>
+<h2 id="mermaid">Mermaid</h2>
 
-<p><a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=kM0fq93veF4" target="_blank">
- <img src="http://img.youtube.com/vi/kM0fq93veF4/mqdefault.jpg" alt="Watch the video here" width="240" height="180" border="10" />
-</a></p>
+<p>Install mermaid using <code class="language-plaintext highlighter-rouge">node.js</code> package manager <code class="language-plaintext highlighter-rouge">npm</code> by running the following command:</p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>npm <span class="nb">install</span> <span class="nt">-g</span> mermaid.cli
+</code></pre></div></div>
 
-<p>In the second video, I describe the definitions related to digital medicine. These are important for the associated policy implications, as organizations are lobbying to expand medicare and medicaid coverage of digital medicines.</p>
+<p>The diagram below was generated by the following code:</p>
 
-<p><a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=HfPwsjwt1DI" target="_blank">
- <img src="http://img.youtube.com/vi/HfPwsjwt1DI/mqdefault.jpg" alt="Watch the video here" width="240" height="180" border="10" />
-</a></p>]]></content><author><name></name></author></entry><entry><title type="html">What is the Perfect Biomarker?</title><link href="https://www.brooksmdphd.com//blog/2023/perfect-biomarker/" rel="alternate" type="text/html" title="What is the Perfect Biomarker?" /><published>2023-07-02T12:00:00+00:00</published><updated>2023-07-02T12:00:00+00:00</updated><id>https://www.brooksmdphd.com//blog/2023/perfect-biomarker</id><content type="html" xml:base="https://www.brooksmdphd.com//blog/2023/perfect-biomarker/"><![CDATA[<h2 id="introduction">Introduction</h2>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{% mermaid %}
+sequenceDiagram
+    participant John
+    participant Alice
+    Alice-&gt;&gt;John: Hello John, how are you?
+    John--&gt;&gt;Alice: Great!
+{% endmermaid %}
+</code></pre></div></div>
 
-<p>So you want to design the perfect biomarker. Or perhaps you’re wondering whether a hot new biomarker (in a top journal or from a biotech start-up) is actually going to be useful, or stand the test of time. The goal of this article is to provide a framework for how to evaluate the effectiveness of biomarkers for health, disease, or really any metric. I recommend you check out the <a href="https://www.ncbi.nlm.nih.gov/books/NBK326791/">NIH’s “BEST Resource”</a> for technical definitions. I will refer here to a biomarker as any characteristic that serves as an indicator of a biological function, state of health, or metric that reflects a health-related process. Biomarkers could be from a blood test (like serum glucose levels), imaging characteristics (from a Brain MRI or PET Scan), digital (personal history of Google queries that suggest anxiety), genetic variants (such as BRCA1 cancer risk gene), or anything you could imagine.</p>
+<div class="jekyll-diagrams diagrams mermaid">
+  <svg id="mermaid-1690295548954" width="100%" xmlns="http://www.w3.org/2000/svg" height="100%" style="max-width:450px;" viewBox="-50 -10 450 231"><style>#mermaid-1690295548954 .label{font-family:trebuchet ms,verdana,arial;color:#333}#mermaid-1690295548954 .node circle,#mermaid-1690295548954 .node ellipse,#mermaid-1690295548954 .node polygon,#mermaid-1690295548954 .node rect{fill:#ececff;stroke:#9370db;stroke-width:1px}#mermaid-1690295548954 .node.clickable{cursor:pointer}#mermaid-1690295548954 .arrowheadPath{fill:#333}#mermaid-1690295548954 .edgePath .path{stroke:#333;stroke-width:1.5px}#mermaid-1690295548954 .edgeLabel{background-color:#e8e8e8}#mermaid-1690295548954 .cluster rect{fill:#ffffde!important;stroke:#aa3!important;stroke-width:1px!important}#mermaid-1690295548954 .cluster text{fill:#333}#mermaid-1690295548954 div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-family:trebuchet ms,verdana,arial;font-size:12px;background:#ffffde;border:1px solid #aa3;border-radius:2px;pointer-events:none;z-index:100}#mermaid-1690295548954 .actor{stroke:#ccf;fill:#ececff}#mermaid-1690295548954 text.actor{fill:#000;stroke:none}#mermaid-1690295548954 .actor-line{stroke:grey}#mermaid-1690295548954 .messageLine0{marker-end:"url(#arrowhead)"}#mermaid-1690295548954 .messageLine0,#mermaid-1690295548954 .messageLine1{stroke-width:1.5;stroke-dasharray:"2 2";stroke:#333}#mermaid-1690295548954 #arrowhead{fill:#333}#mermaid-1690295548954 #crosshead path{fill:#333!important;stroke:#333!important}#mermaid-1690295548954 .messageText{fill:#333;stroke:none}#mermaid-1690295548954 .labelBox{stroke:#ccf;fill:#ececff}#mermaid-1690295548954 .labelText,#mermaid-1690295548954 .loopText{fill:#000;stroke:none}#mermaid-1690295548954 .loopLine{stroke-width:2;stroke-dasharray:"2 2";marker-end:"url(#arrowhead)";stroke:#ccf}#mermaid-1690295548954 .note{stroke:#aa3;fill:#fff5ad}#mermaid-1690295548954 .noteText{fill:#000;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:14px}#mermaid-1690295548954 .section{stroke:none;opacity:.2}#mermaid-1690295548954 .section0{fill:rgba(102,102,255,.49)}#mermaid-1690295548954 .section2{fill:#fff400}#mermaid-1690295548954 .section1,#mermaid-1690295548954 .section3{fill:#fff;opacity:.2}#mermaid-1690295548954 .sectionTitle0,#mermaid-1690295548954 .sectionTitle1,#mermaid-1690295548954 .sectionTitle2,#mermaid-1690295548954 .sectionTitle3{fill:#333}#mermaid-1690295548954 .sectionTitle{text-anchor:start;font-size:11px;text-height:14px}#mermaid-1690295548954 .grid .tick{stroke:#d3d3d3;opacity:.3;shape-rendering:crispEdges}#mermaid-1690295548954 .grid path{stroke-width:0}#mermaid-1690295548954 .today{fill:none;stroke:red;stroke-width:2px}#mermaid-1690295548954 .task{stroke-width:2}#mermaid-1690295548954 .taskText{text-anchor:middle;font-size:11px}#mermaid-1690295548954 .taskTextOutsideRight{fill:#000;text-anchor:start;font-size:11px}#mermaid-1690295548954 .taskTextOutsideLeft{fill:#000;text-anchor:end;font-size:11px}#mermaid-1690295548954 .taskText0,#mermaid-1690295548954 .taskText1,#mermaid-1690295548954 .taskText2,#mermaid-1690295548954 .taskText3{fill:#fff}#mermaid-1690295548954 .task0,#mermaid-1690295548954 .task1,#mermaid-1690295548954 .task2,#mermaid-1690295548954 .task3{fill:#8a90dd;stroke:#534fbc}#mermaid-1690295548954 .taskTextOutside0,#mermaid-1690295548954 .taskTextOutside1,#mermaid-1690295548954 .taskTextOutside2,#mermaid-1690295548954 .taskTextOutside3{fill:#000}#mermaid-1690295548954 .active0,#mermaid-1690295548954 .active1,#mermaid-1690295548954 .active2,#mermaid-1690295548954 .active3{fill:#bfc7ff;stroke:#534fbc}#mermaid-1690295548954 .activeText0,#mermaid-1690295548954 .activeText1,#mermaid-1690295548954 .activeText2,#mermaid-1690295548954 .activeText3{fill:#000!important}#mermaid-1690295548954 .done0,#mermaid-1690295548954 .done1,#mermaid-1690295548954 .done2,#mermaid-1690295548954 .done3{stroke:grey;fill:#d3d3d3;stroke-width:2}#mermaid-1690295548954 .doneText0,#mermaid-1690295548954 .doneText1,#mermaid-1690295548954 .doneText2,#mermaid-1690295548954 .doneText3{fill:#000!important}#mermaid-1690295548954 .crit0,#mermaid-1690295548954 .crit1,#mermaid-1690295548954 .crit2,#mermaid-1690295548954 .crit3{stroke:#f88;fill:red;stroke-width:2}#mermaid-1690295548954 .activeCrit0,#mermaid-1690295548954 .activeCrit1,#mermaid-1690295548954 .activeCrit2,#mermaid-1690295548954 .activeCrit3{stroke:#f88;fill:#bfc7ff;stroke-width:2}#mermaid-1690295548954 .doneCrit0,#mermaid-1690295548954 .doneCrit1,#mermaid-1690295548954 .doneCrit2,#mermaid-1690295548954 .doneCrit3{stroke:#f88;fill:#d3d3d3;stroke-width:2;cursor:pointer;shape-rendering:crispEdges}#mermaid-1690295548954 .activeCritText0,#mermaid-1690295548954 .activeCritText1,#mermaid-1690295548954 .activeCritText2,#mermaid-1690295548954 .activeCritText3,#mermaid-1690295548954 .doneCritText0,#mermaid-1690295548954 .doneCritText1,#mermaid-1690295548954 .doneCritText2,#mermaid-1690295548954 .doneCritText3{fill:#000!important}#mermaid-1690295548954 .titleText{text-anchor:middle;font-size:18px;fill:#000}#mermaid-1690295548954 g.classGroup text{fill:#9370db;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:10px}#mermaid-1690295548954 g.classGroup rect{fill:#ececff;stroke:#9370db}#mermaid-1690295548954 g.classGroup line{stroke:#9370db;stroke-width:1}#mermaid-1690295548954 .classLabel .box{stroke:none;stroke-width:0;fill:#ececff;opacity:.5}#mermaid-1690295548954 .classLabel .label{fill:#9370db;font-size:10px}#mermaid-1690295548954 .relation{stroke:#9370db;stroke-width:1;fill:none}#mermaid-1690295548954 #compositionEnd,#mermaid-1690295548954 #compositionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1690295548954 #aggregationEnd,#mermaid-1690295548954 #aggregationStart{fill:#ececff;stroke:#9370db;stroke-width:1}#mermaid-1690295548954 #dependencyEnd,#mermaid-1690295548954 #dependencyStart,#mermaid-1690295548954 #extensionEnd,#mermaid-1690295548954 #extensionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1690295548954 .branch-label,#mermaid-1690295548954 .commit-id,#mermaid-1690295548954 .commit-msg{fill:#d3d3d3;color:#d3d3d3}</style><style>#mermaid-1690295548954 {
+    color: rgb(0, 0, 0);
+    font: normal normal 400 normal 16px / normal "Times New Roman";
+  }</style><g></g><g><line id="actor0" x1="75" y1="5" x2="75" y2="220" class="actor-line" stroke-width="0.5px" stroke="#999"></line><rect x="0" y="0" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="75" y="32.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle;"><tspan x="75" dy="0">John</tspan></text></g><g><line id="actor1" x1="275" y1="5" x2="275" y2="220" class="actor-line" stroke-width="0.5px" stroke="#999"></line><rect x="200" y="0" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="275" y="32.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle;"><tspan x="275" dy="0">Alice</tspan></text></g><defs><marker id="arrowhead" refX="5" refY="2" markerWidth="6" markerHeight="4" orient="auto"><path d="M 0,0 V 4 L6,2 Z"></path></marker></defs><defs><marker id="crosshead" markerWidth="15" markerHeight="8" orient="auto" refX="16" refY="4"><path fill="black" stroke="#000000" stroke-width="1px" d="M 9,2 V 6 L16,4 Z" style="stroke-dasharray: 0, 0;"></path><path fill="none" stroke="#000000" stroke-width="1px" d="M 0,1 L 6,7 M 6,1 L 0,7" style="stroke-dasharray: 0, 0;"></path></marker></defs><g><text x="175" y="93" class="messageText" style="text-anchor: middle;">Hello John, how are you?</text><line x1="275" y1="100" x2="75" y2="100" class="messageLine0" stroke-width="2" stroke="black" marker-end="url(#arrowhead)" style="fill: none;"></line></g><g><text x="175" y="128" class="messageText" style="text-anchor: middle;">Great!</text><line x1="75" y1="135" x2="275" y2="135" class="messageLine1" stroke-width="2" stroke="black" marker-end="url(#arrowhead)" style="stroke-dasharray: 3, 3; fill: none;"></line></g><g><rect x="0" y="155" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="75" y="187.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle;"><tspan x="75" dy="0">John</tspan></text></g><g><rect x="200" y="155" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="275" y="187.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle;"><tspan x="275" dy="0">Alice</tspan></text></g></svg>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[an example of a blog post with diagrams]]></summary></entry><entry><title type="html">a distill-style blog post</title><link href="https://brooksleitner.github.io/blog/2021/distill/" rel="alternate" type="text/html" title="a distill-style blog post" /><published>2021-05-22T00:00:00+00:00</published><updated>2021-05-22T00:00:00+00:00</updated><id>https://brooksleitner.github.io/blog/2021/distill</id><content type="html" xml:base="https://brooksleitner.github.io/blog/2021/distill/"><![CDATA[<h2 id="equations">Equations</h2>
 
-<p>The ultimate goal of a biomarker is to guide healthcare management, measure response to treatment, or provide an index of future risk. An ideal one will maximize benefits, make it clear to the person and healthcare team how to move forward with the individual’s life, be easy to measure and track, and be responsive to a specific intervention.</p>
+<p>This theme supports rendering beautiful math in inline and display modes using <a href="https://www.mathjax.org/">MathJax 3</a> engine.
+You just need to surround your math expression with <code class="language-plaintext highlighter-rouge">$$</code>, like <code class="language-plaintext highlighter-rouge">$$ E = mc^2 $$</code>.
+If you leave it inside a paragraph, it will produce an inline expression, just like \(E = mc^2\).</p>
 
-<p>I will describe first the necessary context, then P-FRAME criteria, and finally touch on the specific indications.</p>
+<p>To use display mode, again surround your expression with <code class="language-plaintext highlighter-rouge">$$</code> and place it as a separate paragraph.
+Here is an example:</p>
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        <figure>
+\[\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)\]
 
-  <picture>
-    
-
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/biomarker_testtube.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
-
-  </picture>
-
-</figure>
-
-    </div>
-</div>
-<div class="caption">
-    DALLE-2 Helped me depict the magical biomarker testtube. Does there exist a perfect all-in-one biomarker platform?
-</div>
-
-<hr />
-
-<h2 id="context-matters">Context Matters</h2>
-
-<p>Clearly define the problem you are trying to solve- this concept that applies both to academic research and launching a startup. As for biomarkers, it is important to determine what problem your biomarker aims to solve. Will it help guide treatment for Alzheimer’s? Will it tell you the optimal diet to enhance sleep? Something as general as a “key health indicator” is nearly useless. This is because it does not provide any new knowledge to the individual.</p>
-
-<p>Key questions you should begin thinking about include:</p>
-<ul>
-    <li>If I get this biomarker tested, will it tell me how to I change my behavior?</li>
-    <li>Will I be faced with decisions that could change the course of my health? </li>
-    <li>If the biomarker does correlate with disease risk, does a solution exist?</li>
-</ul>
-
-<p>Bottom line is, you need to provide context along with the biomarker. A good example of a useful biomarker is VO2Max. It is the maximal rate of oxygen consumption and utilization during an exercise test, and is a gold standard biomarker for cardiorespiratory fitness. This may be a useful biomarker for an individual about to begin a new exercise program, or an Olympic Sports team member prior to a conditioning regimen. VO2max may be useful for the right person with the right resources (e.g. a coach or trainer), at the right time (prior to an intervention designed specifically to increase fitness), and with a particular goal in mind (e.g. as a trackable metric during a new conditioning program).</p>
+<p>Note that MathJax 3 is <a href="https://docs.mathjax.org/en/latest/upgrading/whats-new-3.0.html">a major re-write of MathJax</a> that brought a significant improvement to the loading and rendering speed, which is now <a href="http://www.intmath.com/cg5/katex-mathjax-comparison.php">on par with KaTeX</a>.</p>
 
 <hr />
 
-<h2 id="p-frame-criteria">P-FRAME Criteria</h2>
+<h2 id="citations">Citations</h2>
 
-<p>Several qualitative AND quantitative metrics can be useful for defining the purpose for, and utility of, nearly any biomarker. I’ve selected a few general features a good biomarker should have that I find useful: Predictive, Feasible, Responsive, Actionable, Minimally Invasive, and Explainable (P-FRAME).</p>
+<p>Citations are then used in the article body with the <code class="language-plaintext highlighter-rouge">&lt;d-cite&gt;</code> tag.
+The key attribute is a reference to the id provided in the bibliography.
+The key attribute can take multiple ids, separated by commas.</p>
+
+<p>The citation is presented inline like this: <d-cite key="gregor2015draw"></d-cite> (a number that displays more information on hover).
+If you have an appendix, a bibliography is automatically created and populated in it.</p>
+
+<p>Distill chose a numerical inline citation style to improve readability of citation dense articles and because many of the benefits of longer citations are obviated by displaying more information on hover.
+However, we consider it good style to mention author last names if you discuss something at length and it fits into the flow well — the authors are human and it’s nice for them to have the community associate them with their work.</p>
+
+<hr />
+
+<h2 id="footnotes">Footnotes</h2>
+
+<p>Just wrap the text you would like to show up in a footnote in a <code class="language-plaintext highlighter-rouge">&lt;d-footnote&gt;</code> tag.
+The number of the footnote will be automatically generated.<d-footnote>This will become a hoverable footnote.</d-footnote></p>
+
+<hr />
+
+<h2 id="code-blocks">Code Blocks</h2>
+
+<p>Syntax highlighting is provided within <code class="language-plaintext highlighter-rouge">&lt;d-code&gt;</code> tags.
+An example of inline code snippets: <code class="language-plaintext highlighter-rouge">&lt;d-code language="html"&gt;let x = 10;&lt;/d-code&gt;</code>.
+For larger blocks of code, add a <code class="language-plaintext highlighter-rouge">block</code> attribute:</p>
+
+<d-code block="" language="javascript">
+  var x = 25;
+  function(x) {
+    return x * x;
+  }
+</d-code>
+
+<p><strong>Note:</strong> <code class="language-plaintext highlighter-rouge">&lt;d-code&gt;</code> blocks do not look good in the dark mode.
+You can always use the default code-highlight using the <code class="language-plaintext highlighter-rouge">highlight</code> liquid tag:</p>
+
+<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="kd">var</span> <span class="nx">x</span> <span class="o">=</span> <span class="mi">25</span><span class="p">;</span>
+<span class="kd">function</span><span class="p">(</span><span class="nx">x</span><span class="p">)</span> <span class="p">{</span>
+  <span class="k">return</span> <span class="nx">x</span> <span class="o">*</span> <span class="nx">x</span><span class="p">;</span>
+<span class="p">}</span></code></pre></figure>
+
+<hr />
+
+<h2 id="interactive-plots">Interactive Plots</h2>
+
+<p>You can add interative plots using plotly + iframes :framed_picture:</p>
 
 <div class="l-page">
-  <iframe src="/assets/img/Biomarker_Radial_Plot.html" frameborder="0" scrolling="no" height="600px" width="100%" style="border: 1px dashed grey;"></iframe>
+  <iframe src="/assets/plotly/demo.html" frameborder="0" scrolling="no" height="500px" width="100%" style="border: 1px dashed grey;"></iframe>
 </div>
 
-<h4 id="predictive">Predictive</h4>
+<p>The plot must be generated separately and saved into an HTML file.
+To generate the plot that you see above, you can use the following code snippet:</p>
 
-<p>The essential component of a biomarker—does it predict a particular health/disease state? HbA1c (the amount of glycosylated hemoglobin—that is sugar-modified hemoglobin in your blood) is extremely predictive of future microvascular damage cause by excess blood sugar levels. As a biomarker that can predict diseases such as diabetes-associated peripheral neuropathy, diabetic eye disease (retinopathy), and diabetic kidney disease, HbA1c is the epitome of Predictive.</p>
-
-<h4 id="feasible">Feasible</h4>
-
-<p>A more practical point; can any laboratory or individual measure the biomarker themselves? Biomarkers that have at home test kits (In fact, startup Simple HealthKit just signed a <a href="https://www.fiercehealthcare.com/retail/simple-healthkit-inks-deal-walmart-rollback-prices-increase-access-home-test">deal with Walmart</a> to allow for HbA1c home testing!) are quite feasible. Performing a PET/CT scan, which requires injection of a radioisotope and simultaneously imaging of a part of or the whole body in order to see progression of metastatic cancer, is on the opposite end of feasible.</p>
-
-<h4 id="responsive">Responsive</h4>
-
-<p>Does the biomarker respond well to intervention? VO2max is an interesting example. The fitter you are, the higher it is. Rigorous aerobic training in general can increase VO2max quite predictably. In fact, read  <a href="https://brooksleitner.medium.com/the-1977-exercise-protocol-that-increased-fitness-more-than-any-other-8557efa6d929">my previous post</a> dissecting the magnitude of change from the most intense aerobic exercise study I have seen to date. The reason I don’t give it a 5/5 is because it is extremely hard to increase VO2max, particularly without regular measurement and/or with a coach.</p>
-
-<h4 id="actionable">Actionable</h4>
-
-<p>Does a particular biomarker score prompt you with a clear set of actions? Heart rate variability (HRV), which is statistically associated with a beneficial state of recovery, is a very general marker of a health state. Because we don’t fully yet understand the scientific underpinnings, it is hard to have a clear set of actions to take when you receive “74 milliseconds” as your last night’s HRV from your wearable. However, HRV is GENERALLY actionable. That is, a person may adopt generally healthy behaviors, and hope that their HRV responds in a beneficial direction. And maybe that’s enough out of a biomarker! Just not perfect…</p>
-
-<h4 id="minimally-invasive">Minimally Invasive</h4>
-
-<p>The three examples in the graph above demonstrate a decent part of the spectrum here. A completely non-invasive wearable wrist monitor to obtain HRV scores a 5/5. HbA1c requires a small amount of blood which is not horrible, but you may not want to do daily blood draws or needle sticks, and thus scores a 4/5. VO2max requires (in a laboratory setting) attachment to a 10-lead EKG, an extremely strenuous exercise test, all while wearing a facemask that captures your oxygen exchange. Though you don’t need a blood draw, I score it a 3/5 because of how involved it is. Depending on how insightful the biomarker is, you may strike a balance between invasiveness and insight gleaned from the result.</p>
-
-<h4 id="explainable">Explainable</h4>
-
-<p>Explainability is a bonus trait, yet I think being able to explain how the biomarker is causally (or mechanistically) associated with a particular disease/health state is important if the biomarker will stand the test of time. For example, we know that HbA1c reflects glycemic control over the last 90-120 days because the amount of sugar in the serum directly reflects how much glucose binds to hemoglobin in red blood cells, and the red blood cell lifespan is 90-120 days. We know then, about how long it will take to change HbA1c, and that control of blood sugar each day will impact its result. However, using procalcitonin to guide treatment of a bacterial infection is useful, but it is way less clear WHY it is helpful. Being able to explain WHY a biomarker is useful, gives a lot more credibility and better helps guide management.</p>
-
-<p>The P-FRAME framework is more subjective and qualitative, as metrics such as sensitivity, specificity, positive predictive value, and negative predictive value are important statistical and quantifiable metrics that are used at a population level. P-FRAME is intended to help an individual (you) assess how a biomarker may be useful, particularly on a per-individual basis.</p>
+<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="kn">import</span> <span class="n">pandas</span> <span class="k">as</span> <span class="n">pd</span>
+<span class="kn">import</span> <span class="n">plotly.express</span> <span class="k">as</span> <span class="n">px</span>
+<span class="n">df</span> <span class="o">=</span> <span class="n">pd</span><span class="p">.</span><span class="nf">read_csv</span><span class="p">(</span>
+  <span class="sh">'</span><span class="s">https://raw.githubusercontent.com/plotly/datasets/master/earthquakes-23k.csv</span><span class="sh">'</span>
+<span class="p">)</span>
+<span class="n">fig</span> <span class="o">=</span> <span class="n">px</span><span class="p">.</span><span class="nf">density_mapbox</span><span class="p">(</span>
+  <span class="n">df</span><span class="p">,</span>
+  <span class="n">lat</span><span class="o">=</span><span class="sh">'</span><span class="s">Latitude</span><span class="sh">'</span><span class="p">,</span>
+  <span class="n">lon</span><span class="o">=</span><span class="sh">'</span><span class="s">Longitude</span><span class="sh">'</span><span class="p">,</span>
+  <span class="n">z</span><span class="o">=</span><span class="sh">'</span><span class="s">Magnitude</span><span class="sh">'</span><span class="p">,</span>
+  <span class="n">radius</span><span class="o">=</span><span class="mi">10</span><span class="p">,</span>
+  <span class="n">center</span><span class="o">=</span><span class="nf">dict</span><span class="p">(</span><span class="n">lat</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span> <span class="n">lon</span><span class="o">=</span><span class="mi">180</span><span class="p">),</span>
+  <span class="n">zoom</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span>
+  <span class="n">mapbox_style</span><span class="o">=</span><span class="sh">"</span><span class="s">stamen-terrain</span><span class="sh">"</span><span class="p">,</span>
+<span class="p">)</span>
+<span class="n">fig</span><span class="p">.</span><span class="nf">show</span><span class="p">()</span>
+<span class="n">fig</span><span class="p">.</span><span class="nf">write_html</span><span class="p">(</span><span class="sh">'</span><span class="s">assets/plotly/demo.html</span><span class="sh">'</span><span class="p">)</span></code></pre></figure>
 
 <hr />
 
-<h2 id="specific-indications">Specific Indications</h2>
+<h2 id="details-boxes">Details boxes</h2>
 
-<p>For the sake of space, I will direct you again to the <a href="https://www.ncbi.nlm.nih.gov/books/NBK326791/">NIH’s “BEST Resource”</a> to examine the numerous indications for biomarkers. In general, you can create a biomarker for any purpose, but clearly defined purposes include for:</p>
+<p>Details boxes are collapsible boxes which hide additional information from the user. They can be added with the <code class="language-plaintext highlighter-rouge">details</code> liquid tag:</p>
+
+<details><summary>Click here to know more</summary>
+<p>Additional details, where math \(2x - 1\) and <code class="language-plaintext highlighter-rouge">code</code> is rendered correctly.</p>
+</details>
+
+<hr />
+
+<h2 id="layouts">Layouts</h2>
+
+<p>The main text column is referred to as the body.
+It is the assumed layout of any direct descendants of the <code class="language-plaintext highlighter-rouge">d-article</code> element.</p>
+
+<div class="fake-img l-body">
+  <p>.l-body</p>
+</div>
+
+<p>For images you want to display a little larger, try <code class="language-plaintext highlighter-rouge">.l-page</code>:</p>
+
+<div class="fake-img l-page">
+  <p>.l-page</p>
+</div>
+
+<p>All of these have an outset variant if you want to poke out from the body text a little bit.
+For instance:</p>
+
+<div class="fake-img l-body-outset">
+  <p>.l-body-outset</p>
+</div>
+
+<div class="fake-img l-page-outset">
+  <p>.l-page-outset</p>
+</div>
+
+<p>Occasionally you’ll want to use the full browser width.
+For this, use <code class="language-plaintext highlighter-rouge">.l-screen</code>.
+You can also inset the element a little from the edge of the browser by using the inset variant.</p>
+
+<div class="fake-img l-screen">
+  <p>.l-screen</p>
+</div>
+<div class="fake-img l-screen-inset">
+  <p>.l-screen-inset</p>
+</div>
+
+<p>The final layout is for marginalia, asides, and footnotes.
+It does not interrupt the normal flow of <code class="language-plaintext highlighter-rouge">.l-body</code> sized text except on mobile screen sizes.</p>
+
+<div class="fake-img l-gutter">
+  <p>.l-gutter</p>
+</div>
+
+<hr />
+
+<h2 id="other-typography">Other Typography?</h2>
+
+<p>Emphasis, aka italics, with <em>asterisks</em> (<code class="language-plaintext highlighter-rouge">*asterisks*</code>) or <em>underscores</em> (<code class="language-plaintext highlighter-rouge">_underscores_</code>).</p>
+
+<p>Strong emphasis, aka bold, with <strong>asterisks</strong> or <strong>underscores</strong>.</p>
+
+<p>Combined emphasis with <strong>asterisks and <em>underscores</em></strong>.</p>
+
+<p>Strikethrough uses two tildes. <del>Scratch this.</del></p>
+
+<ol>
+  <li>First ordered list item</li>
+  <li>Another item
+⋅⋅* Unordered sub-list.</li>
+  <li>Actual numbers don’t matter, just that it’s a number
+⋅⋅1. Ordered sub-list</li>
+  <li>And another item.</li>
+</ol>
+
+<p>⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we’ll use three here to also align the raw Markdown).</p>
+
+<p>⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
+⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
+⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)</p>
 
 <ul>
-    <li>Diagnosis</li>
-    <li>Disease/Risk Prediction</li>
-    <li>Safety</li>
-    <li>Monitoring</li>
-    <li>Treatment Response</li>
-    <li>Prognosis</li>    
+  <li>Unordered list can use asterisks</li>
+  <li>Or minuses</li>
+  <li>Or pluses</li>
 </ul>
 
-<p>There are criteria, along with evidence, that must be met in order for biomarkers to be adopted widely in clinical practice. Typically, the evidence and metrics should be obtained in the context of one or more of the above indications.</p>
+<p><a href="https://www.google.com">I’m an inline-style link</a></p>
 
-<p>Look out for more analyses related to existing, and up and coming biomarkers, and try the P-FRAME framework as you come across new biomarkers. I particularly challenge you to understand the predictability and explainability of them!</p>
+<p><a href="https://www.google.com" title="Google's Homepage">I’m an inline-style link with title</a></p>
 
-<hr />]]></content><author><name>Brooks P. Leitner</name></author><category term="blog-post" /><category term="metabolism," /><category term="medicine" /><summary type="html"><![CDATA[This article provides a qualitative and quantitative framework in order to evaluate the utility of biomarkers for health and disease]]></summary></entry><entry><title type="html">Components of Energy Expenditure - How We Use Calories</title><link href="https://www.brooksmdphd.com//blog/2023/components-of-energy-expenditure/" rel="alternate" type="text/html" title="Components of Energy Expenditure - How We Use Calories" /><published>2023-04-24T19:01:00+00:00</published><updated>2023-04-24T19:01:00+00:00</updated><id>https://www.brooksmdphd.com//blog/2023/components-of-energy-expenditure</id><content type="html" xml:base="https://www.brooksmdphd.com//blog/2023/components-of-energy-expenditure/"><![CDATA[<p>We take in energy in the form of the three macronutrients: carbohydrates, fatty acids, and proteins. Our body is designed to break down the food we ingest into usable energy substrates in order to generate ATP—the molecule of energy currency that fuels nearly all metabolic reactions in our bodies. Now, not all energy that we ingest is “lost,” or expended to perform specific functions that our bodies do. Some of it is used for growth, like how amino acids can become building blocks for muscle through a process called muscle protein synthesis. In addition, energy goes into assisting growth of reproductive cells and tissues. However, the majority of the energy we take in is lost through a variety of processes, all cumulatively known as “Energy Expenditure.”</p>
+<p><a href="https://www.mozilla.org">I’m a reference-style link</a></p>
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        <figure>
+<p><a href="../blob/master/LICENSE">I’m a relative reference to a repository file</a></p>
 
-  <picture>
-    
+<p><a href="http://slashdot.org">You can use numbers for reference-style link definitions</a></p>
 
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/energy_sankey.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+<p>Or leave it empty and use the <a href="http://www.reddit.com">link text itself</a>.</p>
 
-  </picture>
+<p>URLs and URLs in angle brackets will automatically get turned into links.
+http://www.example.com or <a href="http://www.example.com">http://www.example.com</a> and sometimes
+example.com (but not on Github, for example).</p>
 
-</figure>
+<p>Some text to show that the reference links can follow later.</p>
 
-    </div>
-</div>
-<div class="caption">
-    The Components of Energy Intake and Expenditure Have Numerous Derivatives
-</div>
+<p>Here’s our logo (hover to see the title text):</p>
 
-<p>The largest component of energy expenditure is your basal metabolic rate (BMR). Your BMR is the energy that your body uses to maintain basic housekeeping functions, like fueling the Na+/K+ ATPase that maintains cellular gradients at the molecular level, and fueling your always pumping heart, energy-utilizing brain, etc… BMR is most largely determined by your lean body mass (your organs and skeletal muscles). Use the BMR calculator below to estimate your basal metabolic rate!</p>
+<p>Inline-style:
+<img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" alt="alt text" title="Logo Title Text 1" /></p>
 
-<p>Then, there are several more easily modifiable components of energy expenditure:</p>
+<p>Reference-style:
+<img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" alt="alt text" title="Logo Title Text 2" /></p>
 
-<p>Physical activity: intensity, duration, and type of exercise can all influence how much energy is required for physical activity</p>
+<p>Inline <code class="language-plaintext highlighter-rouge">code</code> has <code class="language-plaintext highlighter-rouge">back-ticks around</code> it.</p>
 
-<p>Thermic effect of food: Energy is consumed simply digesting the food you take in. It is approximately 10% of the calories that you eat in a normal day. Proteins have higher thermic effects of food, and simple sugars have the smallest thermic effect of food.</p>
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">var</span> <span class="nx">s</span> <span class="o">=</span> <span class="dl">"</span><span class="s2">JavaScript syntax highlighting</span><span class="dl">"</span><span class="p">;</span>
+<span class="nf">alert</span><span class="p">(</span><span class="nx">s</span><span class="p">);</span>
+</code></pre></div></div>
 
-<p>Non-exercise activity thermogenesis (NEAT): This is the extra amount of energy you expend as you tap your foot, get dressed in the morning, and brush your teeth. Small movements that all add up throughout the day to become a component of your overall energy expenditure.</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">s</span> <span class="o">=</span> <span class="sh">"</span><span class="s">Python syntax highlighting</span><span class="sh">"</span>
+<span class="k">print</span> <span class="n">s</span>
+</code></pre></div></div>
 
-<p>BMR Calculator:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>No language indicated, so no syntax highlighting.
+But let's throw in a &lt;b&gt;tag&lt;/b&gt;.
+</code></pre></div></div>
 
-<html>
-<head>
-	<title>BMR Calculator</title>
-	<link href="https://fonts.googleapis.com/css2?family=Avenir&amp;display=swap" rel="stylesheet" />
-	<style>
-		body {
-			font-family: 'Avenir', sans-serif;
-		}
-	</style>
-</head>
-<body>
-	<h1>BMR Calculator</h1>
-	<form>
-		<label for="weight">Weight (kg):</label>
-		<input type="number" id="weight" name="weight" required="" /><br />
+<p>Colons can be used to align columns.</p>
 
-		<label for="height">Height (cm):</label>
-		<input type="number" id="height" name="height" required="" /><br />
+<table>
+  <thead>
+    <tr>
+      <th>Tables</th>
+      <th style="text-align: center">Are</th>
+      <th style="text-align: right">Cool</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>col 3 is</td>
+      <td style="text-align: center">right-aligned</td>
+      <td style="text-align: right">$1600</td>
+    </tr>
+    <tr>
+      <td>col 2 is</td>
+      <td style="text-align: center">centered</td>
+      <td style="text-align: right">$12</td>
+    </tr>
+    <tr>
+      <td>zebra stripes</td>
+      <td style="text-align: center">are neat</td>
+      <td style="text-align: right">$1</td>
+    </tr>
+  </tbody>
+</table>
 
-		<label for="age">Age (years):</label>
-		<input type="number" id="age" name="age" required="" /><br />
+<p>There must be at least 3 dashes separating each header cell.
+The outer pipes (|) are optional, and you don’t need to make the
+raw Markdown line up prettily. You can also use inline Markdown.</p>
 
-		<label for="sex">Sex:</label>
-		<select id="sex" name="sex" required="">
-			<option value="">Select your sex</option>
-			<option value="male">Male</option>
-			<option value="female">Female</option>
-		</select><br />
+<table>
+  <thead>
+    <tr>
+      <th>Markdown</th>
+      <th>Less</th>
+      <th>Pretty</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><em>Still</em></td>
+      <td><code class="language-plaintext highlighter-rouge">renders</code></td>
+      <td><strong>nicely</strong></td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>2</td>
+      <td>3</td>
+    </tr>
+  </tbody>
+</table>
 
-		<input type="button" value="Calculate" onclick="calculateBMR()" /><br />
+<blockquote>
+  <p>Blockquotes are very handy in email to emulate reply text.
+This line is part of the same quote.</p>
+</blockquote>
 
-		<label for="result">Your BMR is:</label>
-		<input type="text" id="result" name="result" readonly="" />
-	</form>
+<p>Quote break.</p>
 
-	<script>
-		function calculateBMR() {
-			var weight = parseInt(document.getElementById("weight").value);
-			var height = parseInt(document.getElementById("height").value);
-			var age = parseInt(document.getElementById("age").value);
-			var sex = document.getElementById("sex").value;
+<blockquote>
+  <p>This is a very long line that will still be quoted properly when it wraps. Oh boy let’s keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can <em>put</em> <strong>Markdown</strong> into a blockquote.</p>
+</blockquote>
 
-			if (sex == "male") {
-				var bmr = 88.36 + (13.4 * weight) + (4.8 * height) - (5.7 * age);
-			} else if (sex == "female") {
-				var bmr = 447.6 + (9.2 * weight) + (3.1 * height) - (4.3 * age);
-			}
+<p>Here’s a line for us to start with.</p>
 
-			document.getElementById("result").value = bmr.toFixed(2) + " calories per day";
-		}
-	</script>
-</body>
-</html>
+<p>This line is separated from the one above by two newlines, so it will be a <em>separate paragraph</em>.</p>
 
-<p>This calculator was based off of the <a href="https://en.wikipedia.org/wiki/Harris–Benedict_equation">Harris-Benedict Formula</a>. Of note, this is an equation based on population averages, and is not very sensitive to differences in body composition (ie. How much fat versus muscle you have at a given weight). Multiple corrections have been made over the years in the academic literature, but this formula provides a reasonable estimate for you to base the largest component of your energy expenditure!</p>
+<p>This line is also a separate paragraph, but…
+This line is only separated by a single newline, so it’s a separate line in the <em>same paragraph</em>.</p>]]></content><author><name>Albert Einstein</name></author><summary type="html"><![CDATA[an example of a distill-style blog post and main elements]]></summary></entry><entry><title type="html">a post with github metadata</title><link href="https://brooksleitner.github.io/blog/2020/github-metadata/" rel="alternate" type="text/html" title="a post with github metadata" /><published>2020-09-28T21:01:00+00:00</published><updated>2020-09-28T21:01:00+00:00</updated><id>https://brooksleitner.github.io/blog/2020/github-metadata</id><content type="html" xml:base="https://brooksleitner.github.io/blog/2020/github-metadata/"><![CDATA[<p>A sample blog page that demonstrates the accessing of github meta data.</p>
 
-<p>References (and deeper reading):</p>
+<h2 id="what-does-github-metadata-do">What does Github-MetaData do?</h2>
+<ul>
+  <li>Propagates the site.github namespace with repository metadata</li>
+  <li>Setting site variables :
+    <ul>
+      <li>site.title</li>
+      <li>site.description</li>
+      <li>site.url</li>
+      <li>site.baseurl</li>
+    </ul>
+  </li>
+  <li>Accessing the metadata - duh.</li>
+  <li>Generating edittable links.</li>
+</ul>
 
-<p>Rolfe DF, Brown GC. Cellular energy utilization and molecular origin of standard metabolic rate in mammals. Physiol Rev. 1997 Jul;77(3):731-58. doi: 10.1152/physrev.1997.77.3.731. PMID: 9234964.</p>
+<h2 id="additional-reading">Additional Reading</h2>
+<ul>
+  <li>If you’re recieving incorrect/missing data, you may need to perform a Github API<a href="https://github.com/jekyll/github-metadata/blob/master/docs/authentication.md"> authentication</a>.</li>
+  <li>Go through this <a href="https://jekyll.github.io/github-metadata/">README</a> for more details on the topic.</li>
+  <li><a href="https://github.com/jekyll/github-metadata/blob/master/docs/site.github.md">This page</a> highlights all the feilds you can access with github-metadata.
+<br /></li>
+</ul>
 
-<p>Swinburn BA, Ravussin E. Energy and macronutrient metabolism. Baillieres Clin Endocrinol Metab. 1994 Jul;8(3):527-48. doi: 10.1016/s0950-351x(05)80285-x. PMID: 7980346.</p>
+<h2 id="example-metadata">Example MetaData</h2>
+<ul>
+  <li>Host Name :</li>
+  <li>URL :</li>
+  <li>BaseURL :</li>
+  <li>Archived :</li>
+  <li>Contributors :</li>
+</ul>]]></content><author><name></name></author><category term="sample-posts" /><category term="external-services" /><summary type="html"><![CDATA[a quick run down on accessing github metadata.]]></summary></entry><entry><title type="html">a post with twitter</title><link href="https://brooksleitner.github.io/blog/2020/twitter/" rel="alternate" type="text/html" title="a post with twitter" /><published>2020-09-28T15:12:00+00:00</published><updated>2020-09-28T15:12:00+00:00</updated><id>https://brooksleitner.github.io/blog/2020/twitter</id><content type="html" xml:base="https://brooksleitner.github.io/blog/2020/twitter/"><![CDATA[<p>A sample blog page that demonstrates the inclusion of Tweets/Timelines/etc.</p>
 
-<p>Trexler ET, Smith-Ryan AE, Norton LE. Metabolic adaptation to weight loss: implications for the athlete. J Int Soc Sports Nutr. 2014 Feb 27;11(1):7. doi: 10.1186/1550-2783-11-7. PMID: 24571926; PMCID: PMC3943438.</p>
-
-<p>Löffler MC, Betz MJ, Blondin DP, Augustin R, Sharma AK, Tseng YH, Scheele C, Zimdahl H, Mark M, Hennige AM, Wolfrum C, Langhans W, Hamilton BS, Neubauer H. Challenges in tackling energy expenditure as obesity therapy: From preclinical models to clinical application. Mol Metab. 2021 Sep;51:101237. doi: 10.1016/j.molmet.2021.101237. Epub 2021 Apr 18. PMID: 33878401; PMCID: PMC8122111.</p>]]></content><author><name></name></author><category term="blog-post" /><category term="metabolism," /><category term="exercise," /><category term="energy" /><summary type="html"><![CDATA[This article contains a basal metabolic rate calculator and an interactive graphic of the components of energy expenditure.]]></summary></entry><entry><title type="html">My Experience with Ketamine in a Clinical Trial</title><link href="https://www.brooksmdphd.com//blog/2023/ketamine/" rel="alternate" type="text/html" title="My Experience with Ketamine in a Clinical Trial" /><published>2023-04-19T19:01:00+00:00</published><updated>2023-04-19T19:01:00+00:00</updated><id>https://www.brooksmdphd.com//blog/2023/ketamine</id><content type="html" xml:base="https://www.brooksmdphd.com//blog/2023/ketamine/"><![CDATA[<p>There are currently 217 actively recruiting clinical trials for Ketamine and 43 are accepting healthy volunteers <a href="https://clinicaltrials.gov/ct2/results?term=Ketamine&amp;recrs=a&amp;age_v=&amp;gndr=&amp;hlth=Y&amp;type=Intr&amp;rslt=&amp;Search=Apply">ClinicalTrials.gov</a>. Interestingly, ketamine has shown preliminary efficacy for numerous conditions related to chronic pain, anesthesia, Parkinson’s disease, and multiple mental health conditions including depression, PTSD, and opioid use disorder and researchers want to understand how it’s working. I am most interested in it’s role in mental health conditions, and I recently participated in one of these trials to help understand the how the doses used for treatment-resistant depression might be working to modulate brain metabolism. This study, by the way, requires clean urinalyses so that researchers can be sure there are no confounding influences from other drugs, including cannabis.</p>
-
-<p>So, I underwent two MR (magnetic resonance) imaging scans (one day with placebo, one day with ketamine infusion), and I did not know which day I would be experiencing ketamine. On the first day, I was waiting for any odd sensations. Other than questioning the curtains’ movement as they were measuring my blood pressure and performing an EKG in the recovery room, I would find it hard to believe that Ketamine had any psychedelic effects if I did have it.</p>
-
-<p>On Day 2, about 5 minutes into the beginning of the infusion while I was lying awake inside the MR scanner, my first thought was: “wow, okay last week was definitely the placebo.” I broke down my experience into three distinct phases (that I remembered) just a few hours after the experience:</p>
-
-<p>Phase 1: “Going Down”</p>
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        <figure>
-
-  <picture>
-    
-
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/KetaminePhase1.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
-
-  </picture>
-
-</figure>
-
-    </div>
-</div>
-<div class="caption">
-    Ketamine Phase 1 depiction of my descent down into a fluid abyss.
-</div>
-
-<p>While lying the in the scanner with an IV placed in each arm (one for blood samples and the other for the ketamine infusion), a blood pressure cuff on my right leg, and a pulse oximeter on my left toe, I began to experience in interesting feeling of comfort. Like I was being fully swaddled as my body experienced a sort of heaviness and warmth. I felt as if my body was slowly falling through an ocean (it felt more like falling through a liquid, not quite air), and drifting down for what seemed like a very long time. I just kept going down further, all the while in a state of comfort and relaxation. At some point throughout this journey, however, I found myself questioning whether or not I was physically falling. I remember testing to ensure I could still wiggle my fingers. I then recall telling myself “I’m safe, I’m safe.” I can’t recall ever stopping this journey, but I then experienced my second phase.</p>
-
-<p>Phase 2: “What are those squiggly lines?”</p>
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        <figure>
-
-  <picture>
-    
-
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/KetaminePhase2.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
-
-  </picture>
-
-</figure>
-
-    </div>
-</div>
-<div class="caption">
-    Ketamine Phase 2 depiction of my potential "confrontation with my subconscious"
+<h1 id="tweet">Tweet</h1>
+<p>An example of displaying a tweet:</p>
+<div class="jekyll-twitter-plugin"><blockquote class="twitter-tweet"><p lang="sv" dir="ltr">jekyll-twitter-plugin (1.0.0): A Liquid tag plugin for Jekyll that renders Tweets from Twitter API <a href="http://t.co/m4EIQPM9h4">http://t.co/m4EIQPM9h4</a></p>&mdash; RubyGems (@rubygems) <a href="https://twitter.com/rubygems/status/518821243320287232?ref_src=twsrc%5Etfw">October 5, 2014</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
-<p>It started with those squiggly colorful lines that you see when you close your eyes after looking at something bright. Vague lines and shapes, that don’t exactly form anything you can make sense of. I watched these vague lines for a while, just the same way that you might if you’re in a room on your own with nowhere to be, and just looked at them. After some amount of time, after I realized they weren’t magically going to form some object that gave me an epiphany, I began to try to understand what they may be. I wondered if they represented something in my subconscious, as perhaps my Phase 1 journey was taking me exactly there. As the blood pressure cuff went off during that time, I snapped back to my clinical reality momentarily. But only after I began to realize that if I thought hard enough about what those figures may be, I may just have experienced something amazing. Then I entered my final phase.</p>
-
-<p>Phase 3: The Roller Coaster Back to Reality</p>
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        <figure>
-
-  <picture>
-    
-
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/KetaminePhase3.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
-
-  </picture>
-
-</figure>
-
-    </div>
-</div>
-<div class="caption">
-    Ketamine Phase 3 depiction of me riding a roller coaster with a king cobra as the roller coaster cars.
+<h1 id="timeline">Timeline</h1>
+<p>An example of pulling from a timeline:</p>
+<div class="jekyll-twitter-plugin"><a class="twitter-timeline" data-width="500" data-tweet-limit="3" href="https://twitter.com/jekyllrb?ref_src=twsrc%5Etfw">Tweets by jekyllrb</a>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
-<p>This is when the nurse, who accompanied me during the entire 3-hour imaging study, told me that I told her “I am so ***** high.” I was experiencing intense waves of sensation throughout my body, most similar to what you feel when you ride a winding roller coaster at Six Flags for the first time. I imagined that I was dipping back down to the bottom of Phase 1, and back up to reality. For whatever reason, I envisioned that I was no longer swaddled, but rather on the back of the wide neck of a king cobra. I didn’t actually ~see~ the cobra, but its what I felt like I was on. Semi-scary, but finally the phase that I associated with “tripping.” At the end of this phase, I slowly began to hear the humming of the scanner in the background. The nurse telling me that it had been 37 minutes since the start of the infusion. Then eventually, it just felt like my first day in the study again…</p>
+<h1 id="additional-details">Additional Details</h1>
+<p>For more details on using the plugin visit: <a href="https://github.com/rob-murray/jekyll-twitter-plugin">jekyll-twitter-plugin</a></p>]]></content><author><name></name></author><category term="sample-posts" /><category term="external-services" /><category term="formatting" /><summary type="html"><![CDATA[an example of a blog post with twitter]]></summary></entry><entry><title type="html">a post with disqus comments</title><link href="https://brooksleitner.github.io/blog/2015/disqus-comments/" rel="alternate" type="text/html" title="a post with disqus comments" /><published>2015-10-20T15:59:00+00:00</published><updated>2015-10-20T15:59:00+00:00</updated><id>https://brooksleitner.github.io/blog/2015/disqus-comments</id><content type="html" xml:base="https://brooksleitner.github.io/blog/2015/disqus-comments/"><![CDATA[<p>This post shows how to add DISQUS comments.</p>]]></content><author><name></name></author><category term="sample-posts" /><category term="external-services" /><summary type="html"><![CDATA[an example of a blog post with disqus comments]]></summary></entry><entry><title type="html">a post with math</title><link href="https://brooksleitner.github.io/blog/2015/math/" rel="alternate" type="text/html" title="a post with math" /><published>2015-10-20T15:12:00+00:00</published><updated>2015-10-20T15:12:00+00:00</updated><id>https://brooksleitner.github.io/blog/2015/math</id><content type="html" xml:base="https://brooksleitner.github.io/blog/2015/math/"><![CDATA[<p>This theme supports rendering beautiful math in inline and display modes using <a href="https://www.mathjax.org/">MathJax 3</a> engine. You just need to surround your math expression with <code class="language-plaintext highlighter-rouge">$$</code>, like <code class="language-plaintext highlighter-rouge">$$ E = mc^2 $$</code>. If you leave it inside a paragraph, it will produce an inline expression, just like \(E = mc^2\).</p>
 
-<p>For the remaining 80 minutes inside of the MR scanner, I began to realize the potential utility of this treatment for people with persistent intrusive or distorted thoughts. Was Phase 2 the place where a person could confront their subconscious and work through it? Importantly, I realized that an epiphany was unlikely to come passively; if I were to overcome a challenging part of my previously subconscious reality, I would have to put effort into what my mental difficulties were. Ideally, I imagine, I would have prepared in the first place while in therapy with a psychologist or psychiatrist so that I could go into my Ketamine experience ready to address these subconscious thoughts.</p>
+<p>To use display mode, again surround your expression with <code class="language-plaintext highlighter-rouge">$$</code> and place it as a separate paragraph. Here is an example:</p>
 
-<p>I also wondered whether I would have any visual hallucinations during this experience. I did not, and I would agree that my experience aligns well with ketamine’s label as a “dissociative” agent. There were times I felt that my body experienced things, but not necessarily that I was the one experiencing them.</p>
+\[\sum_{k=1}^\infty |\langle x, e_k \rangle|^2 \leq \|x\|^2\]
 
-<p>In summary, having experienced the psychedelic first-hand, I will be very interested to understand its role in clinical practice for mental health conditions and beyond. I believe there is certainly utility for the right person: someone whose thoughts are pervasive, but they have difficulty overcoming them in the moment. Further, these will be patients who are motivated to seek out the underlying issues and confront them. Gamechanger? Perhaps. But like all treatments, pharmacological or not, there will need to be buy in (belief it will work!) from both the practitioner and the patient and also fit the needs of patient at that given time.</p>
+<p>You can also use <code class="language-plaintext highlighter-rouge">\begin{equation}...\end{equation}</code> instead of <code class="language-plaintext highlighter-rouge">$$</code> for display mode math.
+MathJax will automatically number equations:</p>
 
-<p>Disclaimer! This is only MY experience, and certainly not medical advice!</p>]]></content><author><name></name></author><category term="blog-post" /><category term="ketamine," /><category term="psychedelics," /><category term="mind," /><category term="medicine" /><summary type="html"><![CDATA[This article displays written and image descriptions of the phases of my experience of ketamine while enrolled in a clinical trial understanding the psychedelic effects on the brain]]></summary></entry><entry><title type="html">From Apathy to Enthusiasm: Four Lessons for Becoming an Engaging Leader</title><link href="https://www.brooksmdphd.com//blog/2023/from-apathy-to-enthusiasm-four-lessons-for-becoming-an-engaging-leader/" rel="alternate" type="text/html" title="From Apathy to Enthusiasm: Four Lessons for Becoming an Engaging Leader" /><published>2023-04-12T00:24:23+00:00</published><updated>2023-04-12T00:24:23+00:00</updated><id>https://www.brooksmdphd.com//blog/2023/from-apathy-to-enthusiasm-four-lessons-for-becoming-an-engaging-leader</id><content type="html" xml:base="https://www.brooksmdphd.com//blog/2023/from-apathy-to-enthusiasm-four-lessons-for-becoming-an-engaging-leader/"><![CDATA[]]></content><author><name></name></author></entry><entry><title type="html">The 1977 Exercise Protocol that Increased Fitness More than Any Other</title><link href="https://www.brooksmdphd.com//blog/2023/the-1977-exercise-protocol-that-increased-fitness-more-than-any-other/" rel="alternate" type="text/html" title="The 1977 Exercise Protocol that Increased Fitness More than Any Other" /><published>2023-04-09T17:08:48+00:00</published><updated>2023-04-09T17:08:48+00:00</updated><id>https://www.brooksmdphd.com//blog/2023/the-1977-exercise-protocol-that-increased-fitness-more-than-any-other</id><content type="html" xml:base="https://www.brooksmdphd.com//blog/2023/the-1977-exercise-protocol-that-increased-fitness-more-than-any-other/"><![CDATA[]]></content><author><name></name></author></entry></feed>
+<p>\begin{equation}
+\label{eq:cauchy-schwarz}
+\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+\end{equation}</p>
+
+<p>and by adding <code class="language-plaintext highlighter-rouge">\label{...}</code> inside the equation environment, we can now refer to the equation using <code class="language-plaintext highlighter-rouge">\eqref</code>.</p>
+
+<p>Note that MathJax 3 is <a href="https://docs.mathjax.org/en/latest/upgrading/whats-new-3.0.html">a major re-write of MathJax</a> that brought a significant improvement to the loading and rendering speed, which is now <a href="http://www.intmath.com/cg5/katex-mathjax-comparison.php">on par with KaTeX</a>.</p>]]></content><author><name></name></author><category term="sample-posts" /><category term="formatting" /><category term="math" /><summary type="html"><![CDATA[an example of a blog post with some math]]></summary></entry></feed>

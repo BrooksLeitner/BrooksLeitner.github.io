@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.BrooksMDPhD.com//sitemap.xml
+Sitemap: https://BrooksLeitner.github.io/sitemap.xml
