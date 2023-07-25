@@ -14,12 +14,5 @@ The American healthcare system, largely designed when infectious diseases were t
 
 In this first video I cover a great review <a href="https://www.nature.com/articles/nbt.3495">article</a> on Digital Medicine as a potential solution to the chronic disease epidemic. The authors argue WHY now is the time to implement a novel solution.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=kM0fq93veF4" target="_blank">
- <img src="http://img.youtube.com/vi/kM0fq93veF4/mqdefault.jpg" alt="Watch the video here" width="240" height="180" border="10" />
-</a>
-
 In the second video, I describe the definitions related to digital medicine. These are important for the associated policy implications, as organizations are lobbying to expand medicare and medicaid coverage of digital medicines.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=HfPwsjwt1DI" target="_blank">
- <img src="http://img.youtube.com/vi/HfPwsjwt1DI/mqdefault.jpg" alt="Watch the video here" width="240" height="180" border="10" />
-</a>
