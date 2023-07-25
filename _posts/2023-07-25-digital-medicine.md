@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digital Medicine: An Innovative Solution to Ameliorate Chronic Disease?
+title: Digital Medicine - An Innovative Solution to Ameliorate Chronic Disease?
 date: 2023-07-25 10:01:00
 description: This article about Digital Medicine describes two YouTube videos, along with shownotes that detail the role for Digital Medicine in Modern Healthcare
 tags: medicine, technology
